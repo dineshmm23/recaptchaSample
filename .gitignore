@@ -8,6 +8,7 @@ plugins/*
 platforms/*
 
 node_modules
-www/index.js
+www/*
+recaptcha-web/node_modules
 js/**/*.js
 js/**/*.js.map
