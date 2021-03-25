@@ -6,7 +6,7 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "build-web":"cd recaptcha-web && ng build --aot=false --build-optimizer=false --output-path ../platforms/ios/www"
+        "build-web": "cd recaptcha-web && ng build --aot=false --build-optimizer=false --output-path ../platforms/ios/www"
     },
     "author": "Apache Cordova Team",
     "license": "Apache-2.0",
